@@ -13,5 +13,5 @@ Kubeadm works on any deb/rpm based linux system.
     scripts/install-kubernetes.sh
 
     For worker node.
-    scripts/create-user.sh
+    scripts/create-non-cluster-user.sh
     scripts/install-node.sh
