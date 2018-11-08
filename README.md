@@ -9,9 +9,11 @@ Kubeadm works on any deb/rpm based linux system.
 
 
     For master node.
-    scripts/create-user.sh
+    
     scripts/install-kubernetes.sh
+    scripts/create-user.sh
 
     For worker node.
-    scripts/create-non-cluster-user.sh
+    
     scripts/install-node.sh
+    scripts/create-non-cluster-user.sh
